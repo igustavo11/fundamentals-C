@@ -1,0 +1,3 @@
+---RECIPT---
+Holder account: Gustavo
+Balance: 20.000000
